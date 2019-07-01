@@ -1,0 +1,9 @@
+dico("X", 6, "XENONS").
+dico("X", 6, "XHOSAS").
+dico("X", 6, "XIANGS").
+dico("X", 6, "XIPHOS").
+dico("X", 6, "XYLEME").
+dico("X", 6, "XYLENE").
+dico("X", 6, "XYLOLS").
+dico("X", 6, "XYLOSE").
+dico("X", 6, "XYSTES").

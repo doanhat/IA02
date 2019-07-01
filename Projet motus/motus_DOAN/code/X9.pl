@@ -1,0 +1,17 @@
+dico("X", 9, "XANTHINES").
+dico("X", 9, "XANTHIQUE").
+dico("X", 9, "XANTHOMES").
+dico("X", 9, "XENARTHRE").
+dico("X", 9, "XENELASIE").
+dico("X", 9, "XENOLITES").
+dico("X", 9, "XENOPHILE").
+dico("X", 9, "XENOPHOBE").
+dico("X", 9, "XEROCOPIE").
+dico("X", 9, "XEROPHILE").
+dico("X", 9, "XEROPHYTE").
+dico("X", 9, "XIPHOIDES").
+dico("X", 9, "XYLIDINES").
+dico("X", 9, "XYLOCAMPE").
+dico("X", 9, "XYLOCOPES").
+dico("X", 9, "XYLOPHAGE").
+dico("X", 9, "XYLOPHONE").

@@ -1,0 +1,17 @@
+dico("W", 5, "WAGON").
+dico("W", 5, "WALES").
+dico("W", 5, "WALIS").
+dico("W", 5, "WASPS").
+dico("W", 5, "WATTE").
+dico("W", 5, "WATTS").
+dico("W", 5, "WEBER").
+dico("W", 5, "WENGE").
+dico("W", 5, "WENZE").
+dico("W", 5, "WHARF").
+dico("W", 5, "WHIGS").
+dico("W", 5, "WHIPS").
+dico("W", 5, "WHIST").
+dico("W", 5, "WIDIA").
+dico("W", 5, "WINCH").
+dico("W", 5, "WOLOF").
+dico("W", 5, "WURMS").

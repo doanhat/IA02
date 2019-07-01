@@ -1,0 +1,2 @@
+- Le motus est dans le meme fichier avec les dictionnaires.
+- Le mode d'emploi est dans le rapport.
